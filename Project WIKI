@@ -1,4 +1,0 @@
-If your application is closed-source, it should go in a private repository.
-Copyright might protect you legally, but if someone decides to steal your code, they likely won't care. 
-Then it's up to you to be able to find these people, be able to identify that they've used your source
-code in their application, and prove it to a judge.
